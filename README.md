@@ -148,13 +148,15 @@ juhtumiuuringud;
 turundusanalüüsid;
 tulemuste kokkuvõtted;
 kasutatud tööprotsesside kirjeldused.
-Kontakt
 
+### Kontakt
+
+Telefon: 56649470
 Rita Kasesalu
 Tartu, Eesti
 
 - [LinkedIn – Rita Kasesalu](https://www.linkedin.com/in/rita-kasesalu)
-GitHub: lisa profiili link
+- [GitHub](https://github.com/)
 - [Instagram - Sisukasv](https://www.instagram.com/sisukasv)
 - [Facebook - Sisukasv](https://www.facebook.com/61592282683064/)
 - E-post: smartder10@gmail.com, rita.kasesalu@gmail.com
