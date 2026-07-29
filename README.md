@@ -151,12 +151,12 @@ kasutatud tööprotsesside kirjeldused.
 
 ### Kontakt
 
-Telefon: 56649470
-Rita Kasesalu
-Tartu, Eesti
+- Rita Kasesalu
+- Telefon: 56649470
+- Tartu, Eesti
 
 - [LinkedIn – Rita Kasesalu](https://www.linkedin.com/in/rita-kasesalu)
-- [GitHub](https://github.com/)
+- [[GitHub](https://github.com/ritakasesalu-ai)
 - [Instagram - Sisukasv](https://www.instagram.com/sisukasv)
 - [Facebook - Sisukasv](https://www.facebook.com/61592282683064/)
 - E-post: smartder10@gmail.com, rita.kasesalu@gmail.com
