@@ -159,6 +159,6 @@ kasutatud tööprotsesside kirjeldused.
 - [[GitHub](https://github.com/ritakasesalu-ai)
 - [Instagram - Sisukasv](https://www.instagram.com/sisukasv)
 - [Facebook - Sisukasv](https://www.facebook.com/61592282683064/)
-- E-post: smartder10@gmail.com, rita.kasesalu@gmail.com
+- E-post: rita.kasesalu@gmail.com
 
 Sisukasv – selgem sisu, teadlikumad äriotsused.
