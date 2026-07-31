@@ -1,11 +1,11 @@
 :root {
-    --background: #f7f3ed;
+    --background: #f8f3ed;
     --surface: #fffdf9;
-    --text: #303631;
-    --muted: #667069;
-    --accent: #718878;
-    --accent-dark: #53675a;
-    --border: #dfe4de;
+    --text: #313630;
+    --muted: #737b73;
+    --accent: #bcc8b7;
+    --accent-dark: #738571;
+    --border: #eadfd5;
     --max-width: 1120px;
 }
 
@@ -35,9 +35,13 @@ a {
     background:
         linear-gradient(
             135deg,
-            rgba(247, 243, 237, 0.96),
-            rgba(223, 230, 222, 0.9)
+            rgba(248, 243, 237, 0.96),
+            rgba(236, 242, 235, 0.88)
         );
+}
+
+.section-contact {
+    background: #f0ece6;
 }
 
 .navigation {
