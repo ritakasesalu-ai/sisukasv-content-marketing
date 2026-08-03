@@ -64,7 +64,7 @@ Esimene postitus tutvustab minu haridust, juhtimis- ja sisuturunduskogemust, and
 
 - [Instagram](https://www.instagram.com/p/DbXbZIFjJsH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-- ![Visuaal](Facebooki%20postitus%2029.07.2026%20%281%29.png)
+ ![Visuaal](Facebooki%20postitus%2029.07.2026%20%281%29.png)
 
 Postitus 2 – Sisukasvu eesmärk
 
