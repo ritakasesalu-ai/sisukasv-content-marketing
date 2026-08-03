@@ -50,7 +50,7 @@ Sisukasvu sotsiaalmeedia sisu põhineb järgmistel teemadel:
 
 - Andmeanalüüs turunduses
 
--Minu kogemus ja areng
+- Minu kogemus ja areng
 
 - Väikeettevõtete turundusprobleemid ja lahendused
 
@@ -60,11 +60,11 @@ Sisukasvu sotsiaalmeedia sisu põhineb järgmistel teemadel:
 
 Esimene postitus tutvustab minu haridust, juhtimis- ja sisuturunduskogemust, andmeanalüüsi õpinguid ning Sisukasvu eesmärki.
 
-Facebook: https://www.facebook.com/photo/?fbid=122099501589409422&set=pb.61592282683064.-2207520000
+- [Facebook](https://www.facebook.com/photo/?fbid=122099501589409422&set=pb.61592282683064.-2207520000)
 
-Instagram: https://www.instagram.com/p/DbXbZIFjJsH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+- [Instagram](https://www.instagram.com/p/DbXbZIFjJsH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-Visuaal: 
+Visuaal: ![Facebook](https://www.facebook.com/photo/?fbid=122099501589409422&set=pb.61592282683064.-2207520000)
 
 Postitus 2 – Sisukasvu eesmärk
 
