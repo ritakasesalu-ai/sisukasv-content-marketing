@@ -72,9 +72,9 @@ Postitus selgitab, kuidas Sisukasv aitab väikeettevõtetel ühendada sisuturund
 
 Facebook: Vaata postitust
 
-Instagram: Vaata postitust
+- [Instagram](https://www.instagram.com/sisukasv/p/DbpdZ-9DFRN/) 
 
-Visuaal: Vaata kujundust
+![Instagram](https://www.instagram.com/sisukasv/p/DbpdZ-9DFRN/) 
 
 Postitus 3 – Varasem sisuturundusprojekt: Wheexer
 
