@@ -152,7 +152,7 @@ mida postitusest õppisid.
 
 - [Wheexeri Instagram](https://www.instagram.com/wheexer/)
 
-- [Wheexeri Facebook](https://www.facebook.com/professional_dashboard/status/)
+- [Wheexeri Facebook](https://www.facebook.com/wheexer/)
 
 ## Tulemused
 
