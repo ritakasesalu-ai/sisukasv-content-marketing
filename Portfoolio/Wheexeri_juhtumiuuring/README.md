@@ -98,7 +98,7 @@ Lisa sellesse kausta valitud Wheexeri postituste pildid ja kasuta nende kuvamise
 
 Näide:
 
-![Wheexeri näidispostitus](Portfoolio/Wheexeri_juhtumiuuring/Screenshot%202026-08-05%20102005.png)
+![Wheexeri näidispostitus](wheexer-naidispostitus-01.png)
 
 Hamstring stretch!
 
