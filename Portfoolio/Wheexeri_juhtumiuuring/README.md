@@ -98,7 +98,7 @@ Lisa sellesse kausta valitud Wheexeri postituste pildid ja kasuta nende kuvamise
 
 Näide:
 
-![Wheexeri näidispostitus](https://www.instagram.com/p/B1d7nTLA0n-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+![Wheexeri näidispostitus](https://www.instagram.com/wheexer/p/B1d7nTLA0n-/)
 
 Hamstring stretch!
 
