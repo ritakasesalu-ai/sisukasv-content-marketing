@@ -98,21 +98,22 @@ Lisa sellesse kausta valitud Wheexeri postituste pildid ja kasuta nende kuvamise
 
 Näide:
 
-![Wheexeri näidispostitus](wheexer-postitus-01.png)
+![Wheexeri näidispostitus](https://www.instagram.com/p/B1d7nTLA0n-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-Näidistöö 1
+Hamstring stretch!
 
-Kirjelda lühidalt:
+Stand tall.
+Bring your left leg 15–20 cm forward. Lean forward with a straight back towards your leg, while bending the right leg. Hold 30–45s. Repeat with the other side.
+You can use a wall or chair for balance.
+Follow @wheexer for more.
 
-postituse teemat;
+- Igapäevaste lihtsate harjutuste näide;
 
-eesmärki;
+- Sihtrühmaks kontoritöötajad;
 
-sihtrühma probleemi;
+- Video postitus;
 
-kasutatud formaati;
-
-mida postitusest õppisid.
+- Lühikesi ning selgete juhistega videosid on lihtne jälgida ja saada kaasamõtlejaid.
 
 
 
