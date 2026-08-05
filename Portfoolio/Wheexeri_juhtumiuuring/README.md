@@ -150,98 +150,100 @@ mida postitusest õppisid.
 
 ## Kanalid
 
-Wheexeri Instagram
+- [Wheexeri Instagram](https://www.instagram.com/wheexer/)
 
-Facebook: lisa link, kui soovid selle portfoolios avalikustada
+- [Wheexeri Facebook](https://www.facebook.com/professional_dashboard/status/)
 
-Tulemused
+## Tulemused
 
 Kui varasem statistika on alles, saab siia lisada:
 
-jälgijate arvu või kasvu;
+- jälgijate arvu või kasvu;
 
-postituste ja videote arvu;
+- postituste ja videote arvu;
 
-kõige edukamate postituste vaatamised;
+- kõige edukamate postituste vaatamised;
 
-kaasatuse;
+- kaasatuse;
 
-kommentaarid ja jagamised;
+- kommentaarid ja jagamised;
 
-jälgijate tagasiside.
+- jälgijate tagasiside.
 
 Kui täpsed andmed puuduvad, ei ole vaja tulemusi oletada. Sellisel juhul saab keskenduda loodud sisule, tööprotsessile ja saadud kogemusele.
 
-Peamised õppetunnid
+## Peamised õppetunnid
 
 Wheexeri projekt õpetas mulle, et:
 
-sihtrühma konkreetsele probleemile suunatud sisu on arusaadavam ja väärtuslikum;
+- sihtrühma konkreetsele probleemile suunatud sisu on arusaadavam ja väärtuslikum;
 
-praktilised soovitused toimivad paremini, kui neid on lihtne kohe rakendada;
+- praktilised soovitused toimivad paremini, kui neid on lihtne kohe rakendada;
 
-visuaalne järjepidevus toetab kanali äratuntavust;
+- visuaalne järjepidevus toetab kanali äratuntavust;
 
-sisu loomisel peab arvestama nii sõnumi, formaadi kui ka avaldamise regulaarsusega;
+- sisu loomisel peab arvestama nii sõnumi, formaadi kui ka avaldamise regulaarsusega;
 
-tulemuste mõõtmine peaks olema sisuloomeprotsessi osa juba algusest.
+- tulemuste mõõtmine peaks olema sisuloomeprotsessi osa juba algusest;
 
-Mida teeksin tänaste teadmistega teisiti?
+- Erinevad koostöö võimalused.
+
+## Mida teeksin tänaste teadmistega teisiti?
 
 Tänaste teadmiste ja tööriistadega:
 
-määratleksin täpsemad eesmärgid ja mõõdikud;
+- määratleksin täpsemad eesmärgid ja mõõdikud;
 
-looksin selgema sisustrateegia ja sisukalendri;
+- looksin selgema sisustrateegia ja sisukalendri;
 
-kasutaksin järjepidevamat visuaalset süsteemi;
+- kasutaksin järjepidevamat visuaalset süsteemi;
 
-planeeriksin sisu klienditeekonna eri etappide järgi;
+- planeeriksin sisu klienditeekonna eri etappide järgi;
 
-kasutaksin UTM-linke ja kanalite statistikat;
+- kasutaksin UTM-linke ja kanalite statistikat;
 
-analüüsiksin regulaarselt, millised teemad ja formaadid annavad paremaid tulemusi;
+- analüüsiksin regulaarselt, millised teemad ja formaadid annavad paremaid tulemusi;
 
-seoksin sisu tugevamalt konkreetse teenuse või ärilise eesmärgiga.
+- seoksin sisu tugevamalt konkreetse teenuse või ärilise eesmärgiga.
 
-Seos Sisukasvuga
+## Seos Sisukasvuga
 
 Wheexer on oluline osa minu sisuturunduse kogemusest. Sisukasvu arendamisel kasutan sellest projektist saadud teadmisi, kuid ühendan need nüüd:
 
-sisustrateegiaga;
+- sisustrateegiaga;
 
-äriliste eesmärkidega;
+- äriliste eesmärkidega;
 
-mõõdikutega;
+- mõõdikutega;
 
-turundusanalüüsiga;
+- turundusanalüüsiga;
 
-andmepõhiste tegevussoovitustega.
+- andmepõhiste tegevussoovitustega.
 
 Wheexer näitab minu varasemat sisuloomekogemust, Sisukasv aga selle edasiarendamist professionaalseks teenuseks väikeettevõtetele.
 
-Kasutatud tööriistad
+## Kasutatud tööriistad
 
-Instagram
+- Instagram
 
-Facebook
+- Facebook
 
-Canva või varasemad kujundustööriistad
+- Canva või varasemad kujundustööriistad
 
-foto- ja videotöötlusvahendid
+- foto- ja videotöötlusvahendid
 
-sisukalender või teemade planeerimine
+- sisukalender või teemade planeerimine
 
-Projekti staatus
+## Projekti staatus
 
 Juhtumiuuringut täiendatakse järk-järgult:
 
-valitud postituste visuaalidega;
+- valitud postituste visuaalidega;
 
-postituste kirjeldustega;
+- postituste kirjeldustega;
 
-võimalike tulemuste ja mõõdikutega;
+- võimalike tulemuste ja mõõdikutega;
 
-täiendavate õppetundidega.
+- täiendavate õppetundidega.
 
-Sisukasv – selgem sisu, teadlikumad äriotsused.
+### Sisukasv – selgem sisu, teadlikumad äriotsused.
